@@ -6,7 +6,8 @@
   "scripts": {
     "callback": "node src/callback/index.js",
     "callback:challenge": "node src/callback/challenge.js",
-    "callback:challenge-2":"node src/callback/challenge-2.js"
+    "callback:challenge-2":"node src/callback/challenge-2.js",
+    "promise":"node src/promise/index.js"
   },
   "author": "",
   "license": "MIT",
